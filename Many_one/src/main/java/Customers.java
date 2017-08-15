@@ -28,7 +28,7 @@ public class Customers{
 		return customerId;
 	}
 
-
+//meyhod
 	public void setCustomerId(int customerId) {
 		this.customerId = customerId;
 	}
